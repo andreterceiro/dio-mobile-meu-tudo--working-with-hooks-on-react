@@ -21,3 +21,5 @@ See the teacher analogy:
 And please see the teacher explanation:
 
 ![explanation](images/explanation.png)
+
+Teacher passed an example in in this simple example of an incrementer and decrementer, the hook worked similar a session in a "PHP world";
