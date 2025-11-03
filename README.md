@@ -25,3 +25,9 @@ And please see the teacher explanation:
 Teacher passed an example in in this simple example of an incrementer and decrementer, the hook worked similar a session in a "PHP world".
 
 I created a test app (maybe more text apps in future) in "test/01/basic-hooks" directory.
+
+I used the following command to create the app:
+
+```
+npx create-expo-app basic-hooks -t
+```
