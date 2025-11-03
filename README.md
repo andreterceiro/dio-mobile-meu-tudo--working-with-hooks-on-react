@@ -17,3 +17,7 @@ Teacher said that the hook always return to us a function and a variable.
 See the teacher analogy:
 
 ![analoy](images/analogy.png)
+
+And please see the teacher explanation:
+
+![explanation](images/explanation.png)
