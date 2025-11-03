@@ -31,3 +31,9 @@ I used the following command to create the app:
 ```
 npx create-expo-app basic-hooks -t
 ```
+
+And I entered in the created directory and executed this commmand:
+
+```
+npm run android
+```
