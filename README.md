@@ -44,3 +44,4 @@ npm run android
 Please see the test app I developed. Pay attention to things like:
 
 - The use of use state (react hook);
+- The non declaration of the function indicated on declare the use of useState.
