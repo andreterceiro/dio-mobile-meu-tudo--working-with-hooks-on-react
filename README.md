@@ -37,3 +37,10 @@ And I entered in the created directory and executed this commmand:
 ```
 npm run android
 ```
+
+
+# Test app
+
+Please see the test app I developed. Pay attention to things like:
+
+- The use of use state (react hook);
