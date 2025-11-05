@@ -38,6 +38,10 @@ And I entered in the created directory and executed this commmand:
 npm run android
 ```
 
+Please see in this example that we have to call a handler function and is this function that call the function you declared in the line that you declare the use of **useState**.
+
+![useState - example 01](images/useState-example-01.png)
+
 
 # Test app
 
