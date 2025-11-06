@@ -78,3 +78,8 @@ Teacher said that the official documentation is a great plave to study more abou
 ![official documentation](images/official-documentation.png)
 
 [official documentation](https://reactjs.org/docs/hooks-intro.html)
+
+
+# Repository related to the classes
+
+[link](https://github.com/digitalinnovationone/trilha-react-native-hooks)
