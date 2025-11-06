@@ -58,3 +58,7 @@ Teacher said that that useEffect can be use to deal with side effects.
 Here is an example of useEffect use:
 
 ![example of useEffect use](images/example-of-use-effect-use.png)
+
+Teacher also showed us that we do not need to monitor a variable.
+
+![useEffect - we do not have to monitor a variable](images/useEffect--we-do-not-have-to-monitor-a-variable.png)
