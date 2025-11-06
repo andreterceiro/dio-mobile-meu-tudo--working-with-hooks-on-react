@@ -76,3 +76,5 @@ Teacher also showed us that we do not need to monitor a variable.
 Teacher said that the official documentation is a great plave to study more abou React hooks:
 
 ![official documentation](images/official-documentation.png)
+
+[official documentation](https://reactjs.org/docs/hooks-intro.html)
