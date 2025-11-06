@@ -62,3 +62,17 @@ Here is an example of useEffect use:
 Teacher also showed us that we do not need to monitor a variable.
 
 ![useEffect - we do not have to monitor a variable](images/useEffect--we-do-not-have-to-monitor-a-variable.png)
+
+
+
+
+
+
+
+
+
+# Official documentation
+
+Teacher said that the official documentation is a great plave to study more abou React hooks:
+
+![official documentation](images/official-documentarion.png)
