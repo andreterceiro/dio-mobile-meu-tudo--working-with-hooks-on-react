@@ -49,3 +49,8 @@ Please see the test app I developed. Pay attention to things like:
 
 - The use of use state (react hook);
 - The non declaration of the function indicated on declare the use of useState.
+
+
+# useEffect
+
+Teacher said that that useEffect can be use to deal with side effects.
