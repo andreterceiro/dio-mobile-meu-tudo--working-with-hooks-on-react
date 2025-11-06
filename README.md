@@ -54,3 +54,7 @@ Please see the test app I developed. Pay attention to things like:
 # useEffect
 
 Teacher said that that useEffect can be use to deal with side effects.
+
+Here is an example of useEffect use:
+
+![example of useEffect use](images/example-of-use-effect-use.png)
