@@ -80,6 +80,9 @@ Please see the line with the string "useReducer(reducer, {counter: 0})".
 
 You also can see the function "reducer" in the image.
 
+Please see this example image:
+
+![useReducer - example 01](images/useReducer-example-01.png)
 
 # Official documentation
 
