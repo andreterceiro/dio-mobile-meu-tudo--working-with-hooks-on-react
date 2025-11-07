@@ -90,6 +90,7 @@ Comments:
 
 - The onPress declaration on the different buttons ("Remover" or "Adcionar" in the images);
 - These methods of the above item call the method dispatch indicated in the line that you declared the use of useReducer;
+- See the second image. The "reducer" function receives a second parameter.
 
 
 
