@@ -63,6 +63,8 @@ Teacher also showed us that we do not need to monitor a variable.
 
 ![useEffect - we do not have to monitor a variable](images/useEffect--we-do-not-have-to-monitor-a-variable.png)
 
+OBS: Pay attention that we have the use of **useEffect** and **useState** in the previous image.
+
 
 # useReducer
 
@@ -91,7 +93,6 @@ Comments:
 - The onPress declaration on the different buttons ("Remover" or "Adcionar" in the images);
 - These methods of the above item call the method dispatch indicated in the line that you declared the use of useReducer;
 - See the second image. The "reducer" function receives a second parameter.
-
 
 
 # Official documentation
