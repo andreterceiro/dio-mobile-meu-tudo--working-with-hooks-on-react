@@ -64,7 +64,13 @@ Teacher also showed us that we do not need to monitor a variable.
 ![useEffect - we do not have to monitor a variable](images/useEffect--we-do-not-have-to-monitor-a-variable.png)
 
 
+# useReducer
 
+How to import:
+
+```
+import {useReducer} from 'react'
+```
 
 
 
