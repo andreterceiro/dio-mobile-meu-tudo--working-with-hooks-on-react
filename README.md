@@ -78,6 +78,7 @@ Declaring for the use:
 
 Please see the line with the string "useReducer(reducer, {counter: 0})".
 
+You also can see the function "reducer" in the image.
 
 
 # Official documentation
