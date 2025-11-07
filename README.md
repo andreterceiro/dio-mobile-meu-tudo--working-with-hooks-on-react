@@ -72,7 +72,9 @@ How to import:
 import {useReducer} from 'react'
 ```
 
+Declaring for the use:
 
+![useReducer - declaring the use](images/useReducer-declaring-the-use.png)
 
 
 
