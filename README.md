@@ -76,6 +76,7 @@ Declaring for the use:
 
 ![useReducer - declaring the use](images/useReducer-declaring-the-use.png)
 
+Please see the line with the string "useReducer(reducer, {counter: 0})".
 
 
 
