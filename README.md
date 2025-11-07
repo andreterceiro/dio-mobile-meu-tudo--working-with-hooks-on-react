@@ -86,6 +86,11 @@ Please see these example images:
 
 ![useReducer - example 01 - part 02](images/useReducer-example-01-part-02.png)
 
+Comments:
+
+- The onPress declaration on the different buttons ("Remover" or "Adcionar" in the images)
+
+
 
 # Official documentation
 
