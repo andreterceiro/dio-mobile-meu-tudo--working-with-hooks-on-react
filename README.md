@@ -105,6 +105,8 @@ Normal importing:
 import React, {useReducer, useState} from 'react'
 ```
 
+In this example you need to understand that you will interact with every key pressed in the text box and with the click in the button.
+
 
 # Official documentation
 
