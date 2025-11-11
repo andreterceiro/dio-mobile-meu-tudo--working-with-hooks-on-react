@@ -132,11 +132,11 @@ Now please see the use of **useReducer**:
 
 Explaining: 
 
-1- you indicate the function **dispatch** in the line that you indicate the use of **useReducer**;
-2- In the last line in the above image you can see the **dispatch** function being called;
-3- you can see in the same line that you indicate the use of the funciton dispatch, that the function **listener** is linked to **useReducer**;
-4- the listener function pass only one parameter, but **useReducer** repass to the function **listener** this parameter and another first parameter;
-5 - the **listenr** function passes 1 parameter object, with 2 keys (and values);
+1. you indicate the function **dispatch** in the line that you indicate the use of **useReducer**;
+2. In the last line in the above image you can see the **dispatch** function being called;
+3. you can see in the same line that you indicate the use of the funciton dispatch, that the function **listener** is linked to **useReducer**;
+4. the listener function pass only one parameter, but **useReducer** repass to the function **listener** this parameter and another first parameter;
+5. the **listenr** function passes 1 parameter object, with 2 keys (and values);
 
 
 # Repository related to the classes
