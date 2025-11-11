@@ -126,6 +126,9 @@ Teacher said that the official documentation is a great plave to study more abou
 
 [official documentation](https://reactjs.org/docs/hooks-intro.html)
 
+Now please see the use of **useReducer**:
+
+![example with 2 hooks -- useReducer](images/example-with-2-hooks--useReducer.png)
 
 # Repository related to the classes
 
