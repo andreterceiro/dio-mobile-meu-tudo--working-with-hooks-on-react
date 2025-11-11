@@ -133,6 +133,7 @@ Now please see the use of **useReducer**:
 Explaining: 
 
 1- you indicate the function **dispatch** in the line that you indicate the use of **useReducer**;
+2- In the last line in the above image you can see the **dispatch** function being called;
 
 
 # Repository related to the classes
