@@ -115,6 +115,8 @@ See in this example that you use **useState** on every pressed key in the text b
 
 ![example with 2 hooks -- showing in the console](images/example-with-2-hooks--showing-in-the-console.png)
 
+Who is **handleAddTask**. Is the invoked function on the button click. It showes in the console the value of the text box, but when the button is clicked.
+
 
 # Official documentation
 
