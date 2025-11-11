@@ -111,6 +111,11 @@ See in this example that you use **useState** on every pressed key in the text b
 
 ![example-with-2-hooks--useState](images/example-with-2-hooks--useState.png)
 
+## Showing in the console the content of the text box
+
+![example with 2 hooks -- showing in the console](images/example-with-2-hooks--showing-in-the-console.png)
+
+
 # Official documentation
 
 Teacher said that the official documentation is a great plave to study more abou React hooks:
