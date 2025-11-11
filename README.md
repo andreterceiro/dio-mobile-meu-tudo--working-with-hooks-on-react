@@ -143,6 +143,8 @@ Writing the tasks in the screen:
 
 ![example with 2 hooks -- writing the tasks in the screen](images/example-with-2-hooks--writing-the-tasks-in-the-screen.png)
 
+A comment: the use of **useReducer** did not seems necessary, but only to teacher exemplify the use of 2 hooks.
+
 
 # Repository related to the classes
 
