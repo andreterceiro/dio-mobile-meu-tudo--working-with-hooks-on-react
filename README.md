@@ -130,6 +130,11 @@ Now please see the use of **useReducer**:
 
 ![example with 2 hooks -- useReducer](images/example-with-2-hooks--useReducer.png)
 
+Explaining: 
+
+1- you indicate the function **dispatch** in the line that you indicate the use of **useReducer**;
+
+
 # Repository related to the classes
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-hooks)
