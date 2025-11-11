@@ -97,7 +97,13 @@ Comments:
 
 # Example with 2 hooks
 
-Teacher passed us an example with **useReducer** and **useState**. 
+Teacher passed us an example with **useReducer** and **useState**.
+
+Normal importing:
+
+```
+import React, {useReducer, useState} from 'react'
+```
 
 
 # Official documentation
