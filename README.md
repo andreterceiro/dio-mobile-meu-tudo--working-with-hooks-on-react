@@ -139,6 +139,10 @@ Explaining:
 5. the **listener** function passes 1 parameter object, with 2 keys (and values);
 6. you can see in the example that the state, automatically passed by the use reducer, is used in the **listener** function;
 
+Writing the tasks in the screen:
+
+![example with 2 hooks -- writing the tasks in the screen](images/example-with-2-hooks--writing-the-tasks-in-the-screen.png)
+
 
 # Repository related to the classes
 
