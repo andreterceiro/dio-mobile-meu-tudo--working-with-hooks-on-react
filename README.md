@@ -107,6 +107,9 @@ import React, {useReducer, useState} from 'react'
 
 In this example you need to understand that you will interact with every key pressed in the text box and with the click in the button.
 
+See in this example that you use **useState** on every pressed key in the text box, but you do not need to write the **setInputValue** function, only to declare it in the line where you call **useState**.
+
+![example-with-2-hooks--useState](images/example-with-2-hooks--useState.png)
 
 # Official documentation
 
