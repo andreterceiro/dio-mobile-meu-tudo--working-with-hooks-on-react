@@ -95,6 +95,11 @@ Comments:
 - See the second image. The "reducer" function receives a second parameter.
 
 
+# Example with 2 hooks
+
+Teacher passed us an example with **useReducer** and **useState**. 
+
+
 # Official documentation
 
 Teacher said that the official documentation is a great plave to study more abou React hooks:
