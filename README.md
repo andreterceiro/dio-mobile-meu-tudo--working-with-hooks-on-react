@@ -22,7 +22,7 @@ And please see the teacher explanation:
 
 ![explanation](images/explanation.png)
 
-Teacher passed an example in in this simple example of an incrementer and decrementer, the hook worked similar a session in a "PHP world".
+Teacher passed an example in this simple example of an incrementer and decrementer, the hook worked similar a session in a "PHP world".
 
 I created a test app (maybe more text apps in future) in "test/01/basic-hooks" directory.
 
